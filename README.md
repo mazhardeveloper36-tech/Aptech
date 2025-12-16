@@ -1,2 +1,2 @@
 # Aptech
-My First Assignment Of GitHub
+My First repo Of GitHub
